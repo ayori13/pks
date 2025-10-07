@@ -85,6 +85,10 @@ onChanged: (_) => setState(() {});
 <img width="669" height="975" alt="image" src="https://github.com/user-attachments/assets/4db739ed-865e-4a4d-975d-b4c1644fd588" />
 
 
+Доп.Скриншот - структура проекта 
+<img width="214" height="141" alt="image" src="https://github.com/user-attachments/assets/eec11b8f-3196-4c83-bd2a-dcfa8e8f12f2" />
+
+
 ### Вывод
 
 - Удалось реализовать список заметок с добавлением, редактированием, удалением, поиском и свайп-удалением.
