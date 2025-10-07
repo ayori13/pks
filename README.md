@@ -61,16 +61,26 @@ onChanged: (_) => setState(() {});
 1. В начале нас встречает пример заметки, которую можно удалить 
 <img width="669" height="990" alt="image" src="https://github.com/user-attachments/assets/e9b67783-2c20-43ba-9c6c-1d4e23d3b986" />
 <img width="672" height="980" alt="image" src="https://github.com/user-attachments/assets/126498b6-6ac9-4b5f-a132-9525f02dd6e7" />
+
+
 2. Мы можем создать свою заметку нажам на значок "+" на начальном экране
 <img width="677" height="965" alt="image" src="https://github.com/user-attachments/assets/51b09fd7-7182-407b-887f-15abe1eaa191" />
+
+
 3. Список заметок
 <img width="663" height="994" alt="image" src="https://github.com/user-attachments/assets/9324a50f-9509-41da-9cbb-ca936fc32be4" />
-4. Редактировать заметку можно по простомцу нажатию на нее
+
+
+4. Редактировать заметку можно по простому нажатию на нее
 <img width="673" height="993" alt="image" src="https://github.com/user-attachments/assets/e06acac7-5a71-40d6-b290-8077550d65f7" />
 <img width="673" height="994" alt="image" src="https://github.com/user-attachments/assets/97404137-77f9-4180-a881-fb9559d366f7" />
 <img width="666" height="975" alt="image" src="https://github.com/user-attachments/assets/3a21f64b-3eb2-4540-bf85-303e967a2470" />
+
+
 5. После удаления(на кнопку корзины) высвечивается Снекбар с надписью "Заметка удалена"
 <img width="675" height="987" alt="image" src="https://github.com/user-attachments/assets/b05acdae-c4f0-4e05-82d6-799c458c29ec" />
+
+
 6. Режим поиска с фильтрацией по заголовку
 <img width="669" height="975" alt="image" src="https://github.com/user-attachments/assets/4db739ed-865e-4a4d-975d-b4c1644fd588" />
 
