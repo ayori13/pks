@@ -110,8 +110,13 @@ receiveTimeout: const Duration(seconds: 10),
 # Демонстрация работы приложения
 
 ### Экран списка заметок
-
+<img width="361" height="671" alt="image" src="https://github.com/user-attachments/assets/d5072934-bc82-475b-90e0-f2e610adb274" />
 
 ### Экран деталей заметки
+<img width="366" height="739" alt="image" src="https://github.com/user-attachments/assets/a7ba3ccd-8bcb-4b8c-8131-c61f9c704ca6" />
 
-### Диалог создания и результат
+### Диалог создания
+<img width="366" height="739" alt="image" src="https://github.com/user-attachments/assets/1da3da5c-6ee4-4946-8043-4c9a17fd4887" />
+
+### Результат
+<img width="355" height="538" alt="image" src="https://github.com/user-attachments/assets/8fa16ddf-a6dd-427c-a10f-75b0ac7a94af" />
