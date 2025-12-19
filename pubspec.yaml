@@ -1,0 +1,45 @@
+name: madshop_ui_doronina
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo.png
+    - assets/images/Bubbles.png
+    - assets/images/eye-slash.png
+    - assets/images/Flag.png
+    - assets/images/Bubbles1.png
+    - assets/images/heart.png
+    - assets/images/Bubbles2.png
+    - assets/images/Cart.png
+    - assets/images/Cart1.png
+    - assets/images/Component 1.png
+    - assets/images/wishlist.png
+    - assets/images/Frame.png
+    - assets/images/Frame1.png
+    - assets/images/cart2.png
+    - assets/images/Shop.png
+    - assets/images/Vector.png
+    - assets/images/Frame2.png
+    - assets/images/Group 1954.png
+    - assets/images/More.png
+    - assets/images/Less.png
+
+
