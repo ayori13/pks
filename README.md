@@ -13,16 +13,24 @@
 # Ход работы:
 
 ## 1. Скриншот настроенного проекта Supabase.
+<img width="824" height="335" alt="image" src="https://github.com/user-attachments/assets/61b3e78e-ef96-4c08-8697-778cb5d3e926" />
+<img width="820" height="385" alt="image" src="https://github.com/user-attachments/assets/668f0ead-11b2-4453-a176-93afe460990c" />
+
 
 ## 2. Скриншот экрана входа 
+<img width="300" height="542" alt="image" src="https://github.com/user-attachments/assets/eb117de2-754e-4fa7-a366-3e7f4e4d53d2" />
 
 ## 3. Скриншот пустого списка
+<img width="279" height="584" alt="image" src="https://github.com/user-attachments/assets/4ac30a15-5dd6-4078-82f2-2a3eb768c21d" />
 
 ## 4. Скриншот после добавления заметки.
+<img width="282" height="592" alt="image" src="https://github.com/user-attachments/assets/c4a890d8-8416-4866-9a10-31073c1897d0" />
 
 ## 5. Скриншот после редактирования.
+<img width="287" height="595" alt="image" src="https://github.com/user-attachments/assets/0cd28497-3d38-4d66-9b55-e3d7e14e91e9" />
 
 ## 6. Скриншот после удаления.
+<img width="285" height="582" alt="image" src="https://github.com/user-attachments/assets/6d695a2c-3322-4771-a736-a12edaf22ef1" />
 
 
 # Настройка Supabase
