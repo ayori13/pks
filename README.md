@@ -12,19 +12,19 @@
 # Ход работы:
 
 ## 1. Скриншот настроенного проекта Firebase
-
+<img width="830" height="402" alt="image" src="https://github.com/user-attachments/assets/a7030ad8-c529-4432-a9c1-79c62fd0bde3" />
 
 ## 2. Скриншот запущенного приложения с отображением списка.
-
+<img width="283" height="584" alt="image" src="https://github.com/user-attachments/assets/9d752cea-46ec-45bd-87ee-113154d3b81f" />
 
 ## 3. Скриншот после добавления заметки.
-
+<img width="277" height="561" alt="image" src="https://github.com/user-attachments/assets/e5012943-9c62-404b-b549-d0bbc91657bc" />
 
 ## 4. Скриншот после редактирования.
-
+<img width="277" height="561" alt="image" src="https://github.com/user-attachments/assets/74f3d05d-f891-4038-b372-c77b04f3581a" />
 
 ## 5. Скриншот после удаления.
-
+![Uploading image.png…]()
 
 
 **Этапы подключения Firebase к проекту:**  
