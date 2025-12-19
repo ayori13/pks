@@ -12,6 +12,6 @@
 
 ---
 
-![Demo](.gif/gif1.gif)
+![GIF](/home/ruslan/Загрузки/6/gif/gif1.gif)
 
 
