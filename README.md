@@ -62,15 +62,17 @@ final newFile = await _image!.copy('${dir.path}/photo_${DateTime.now().milliseco
 
 ### 1. Главный экран
 Интерфейс приложения с кнопками для выбора источника изображения
+<img width="370" height="664" alt="image" src="https://github.com/user-attachments/assets/3a0d45d3-4004-4953-9dd1-44dbcfd7a3d2" />
 
 
 ### 2. Работа с камерой
 Процесс съёмки фото через встроенный интерфейс камеры устройства
+<img width="374" height="567" alt="image" src="https://github.com/user-attachments/assets/241096d1-97b6-412b-a344-08bc5a505e25" />
 
 
-### 3. Просмотр изображения
-Отображение выбранного или снятого фото с возможностью применения фильтров
+### 3. Просмотр изображения и сохранение
+Отображение выбранного или снятого фото и уведомление об успешном сохранении обработанного изображения
+<img width="374" height="567" alt="image" src="https://github.com/user-attachments/assets/42989fe4-d1a6-4a4c-8f42-820e3ab274db" />
 
+<img width="374" height="567" alt="image" src="https://github.com/user-attachments/assets/fb27999c-46b2-47b8-afb5-ae890571ca15" />
 
-### 4. Подтверждение сохранения
-Уведомление об успешном сохранении обработанного изображения
