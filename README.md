@@ -7,14 +7,19 @@
 - Отработать миграции схемы и диагностику частых ошибок.
 # Ход работы:
 ## 1 Первый запуск.
+<img width="371" height="744" alt="image" src="https://github.com/user-attachments/assets/c6aca9d7-68ef-4c37-9668-179d9449ec3b" />
 
 ## 2 Добавление заметки
+<img width="371" height="744" alt="image" src="https://github.com/user-attachments/assets/d477dfb5-8f67-4201-bf98-fc1e214ad906" />
 
 ## 3 Редактирование
+<img width="368" height="724" alt="image" src="https://github.com/user-attachments/assets/c8bc4785-1391-4dc3-8d7c-6678708f92a1" />
 
 ## 4 Итоговая запись
+<img width="368" height="727" alt="image" src="https://github.com/user-attachments/assets/cdd6b7b2-6f53-4d09-9e01-902ec9afb3d3" />
 
 ## 5 Удаление
+<img width="368" height="727" alt="image" src="https://github.com/user-attachments/assets/7cd941dd-1db3-43c9-ba83-3c49f8fc0bbd" />
 
 # Локальное хранилище данных SQLite
 
